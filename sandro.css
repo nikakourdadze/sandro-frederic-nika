@@ -3,3 +3,32 @@ h1{
 }
 
 #h1 liberty
+
+body{
+    background: gray;
+    font-size: 14pt;
+    color: black;
+}
+
+#wrapper{
+    width: 1200px;
+    margin: auto;
+}
+
+header{
+    background: rgb(166, 131, 199);
+    padding: 10px 10px;
+}
+
+header nav{
+    float: right;
+}
+
+header ul{
+    margin: 0;
+}
+
+header li{
+    display: inline;
+    padding-left: 25px;
+}
